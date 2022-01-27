@@ -7,7 +7,7 @@ categorise:
 tags:
     - Blog
 ---
-# 2022 1월 27일 공부한 내용
+# 2022년 1월 27일 공부한 내용
 >스프링 핵심 원리 - 기본편 (김영한, 인프런)
 * [섹션 8. 빈 생명주기 콜백](https://funny-gourd-490.notion.site/143a2142025541a5aa420942b8dc86b3)
 * [깃 허브 공부](https://funny-gourd-490.notion.site/b955ab5a7dce41bca02818cfa89e1ab0)

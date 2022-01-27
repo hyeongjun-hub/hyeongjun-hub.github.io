@@ -2,10 +2,11 @@
 title: "1월 27일 공부내용 정리"
 excerpt: "Take note of what I studied on January 27th"
 
-categorise:    
-    - Blog
+categories:    
+    - Study
 tags:
-    - Blog
+    - Spring
+    - Git
 ---
 > 스프링 핵심 원리 - 기본편 (김영한, 인프런)  
 * [섹션 8. 빈 생명주기 콜백](https://funny-gourd-490.notion.site/143a2142025541a5aa420942b8dc86b3)

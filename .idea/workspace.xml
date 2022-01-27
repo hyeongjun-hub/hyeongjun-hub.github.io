@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec60e2bf-96bd-434a-8118-3207860c4555" name="Changes" comment="Rebuild the blog" />
+    <list default="true" id="ec60e2bf-96bd-434a-8118-3207860c4555" name="Changes" comment="Rebuild the blog">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,10 @@
       <workItem from="1643162591609" duration="1000" />
       <workItem from="1643195607641" duration="977000" />
       <workItem from="1643197152004" duration="13714000" />
-      <workItem from="1643252148624" duration="1104000" />
+      <workItem from="1643252148624" duration="1475000" />
+      <workItem from="1643262312094" duration="89000" />
+      <workItem from="1643262439853" duration="12000" />
+      <workItem from="1643262605452" duration="174000" />
     </task>
     <task id="LOCAL-00001" summary="first posting">
       <created>1643016166924</created>

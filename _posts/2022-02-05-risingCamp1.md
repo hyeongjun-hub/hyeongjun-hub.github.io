@@ -1,6 +1,6 @@
 ---
 title: "2월 5일 공부내용 정리"
-excerpt: "Take note of what I studied on February 4th, 2022"
+excerpt: "Take note of what I studied on February 5th, 2022"
 
 categories:    
     - Study

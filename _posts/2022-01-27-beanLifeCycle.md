@@ -9,9 +9,9 @@ tags:
     - Git
 ---
 > 스프링 핵심 원리 - 기본편 (김영한, 인프런)  
-* [섹션 8. 빈 생명주기 콜백](https://funny-gourd-490.notion.site/143a2142025541a5aa420942b8dc86b3)
+* Notion Link: [섹션 8. 빈 생명주기 콜백](https://funny-gourd-490.notion.site/143a2142025541a5aa420942b8dc86b3)
 > 깃과 깃허브 
-* [깃과 깃허브 공부](https://funny-gourd-490.notion.site/b955ab5a7dce41bca02818cfa89e1ab0)
+* Notion Link: [깃과 깃허브 공부](https://funny-gourd-490.notion.site/b955ab5a7dce41bca02818cfa89e1ab0)
   
 ---
 오늘은 오전에는 깃허브 블로그와 깃에 대한 궁금증을 해결하기 위해 정보를 찾아보았고 오후에는 스프링 빈의 생명주기와 콜백메소드에 대해서 공부하였다.  

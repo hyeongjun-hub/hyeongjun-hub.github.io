@@ -8,6 +8,7 @@ tags:
     - algorithm
     - http
 ---
+> HTTP
 * Notion Link: [HTTP 상태코드](https://funny-gourd-490.notion.site/HTTP-dc0521c31e13449aad1aba4ab4a814f1)
   
 ---

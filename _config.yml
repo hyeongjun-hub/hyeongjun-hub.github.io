@@ -15,8 +15,8 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
-title                    : "hyeongjun"
+locale                   : "en-US"
+title                    : "Memories can't beat writes"
 title_separator          : "-"
 subtitle                 : "view life as a continuous learning experience" # site tagline that appears below site title in masthead
 name                     : "Hyeongjun Jo"
@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "Hyeongjun Jo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "/assets/images/img.png"
+  bio              : "I can be **anything**"
   location         : "Gwanakgu, Seoul"
-  email            :
+  email            : "chogudwns@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/hyeongjun-hub"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

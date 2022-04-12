@@ -126,8 +126,11 @@ blockquote {
 /* links */
 
 a {
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
+    text-decoration-line: underline;
   }
 
   &:visited {
@@ -135,6 +138,7 @@ a {
   }
 
   &:hover {
+    text-decoration-line: underline;
     color: $link-color-hover;
     outline: 0;
   }
